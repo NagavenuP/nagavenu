@@ -4,3 +4,8 @@ console.log(i);
 }
 }
 data();
+
+function fact(){
+    console.log('dsdsdssd');
+}
+fact();
