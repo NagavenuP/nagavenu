@@ -4,3 +4,7 @@ console.log(i);
 }
 }
 data();
+fuction mydata(){
+    console.log("dsdasdd");
+}
+mydata();
